@@ -1,4 +1,9 @@
 Anne Hathaway
 Annabelle Wallis
 Meryl Streep
+<<<<<<< HEAD
 Scarlett Johansson
+=======
+Gal Gadot
+
+>>>>>>> test2
